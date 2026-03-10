@@ -19,7 +19,7 @@ O projeto implementa autenticação com **JWT**, persistência com **MySQL** e c
 
 # Configuração do ambiente
 
-## 1️⃣ Clonar o repositório
+##  Clonar o repositório
 
 ```
 git clone https://github.com/seu-usuario/forumhub2.git
@@ -89,7 +89,7 @@ http://localhost:8080
 
 ---
 
-# 📚 Endpoints da API
+#  Endpoints da API
 
 ## Criar tópico
 
